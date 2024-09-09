@@ -5,7 +5,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens que utilizo: HTML, CSS, Python, Javascript e C.
+  Linguagens que utilizo: HTML, CSS, Python, Javascript e C.
 </p>
 
 <p align="left">
