@@ -3,11 +3,11 @@
 <p align="left"> 
   Meu nome é Guilherme Wolf Nogueira, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School, no 2° período!
 </p>
-<p>Habilidades</p>
+<h3>Habilidades:</h3>
 <div style="display: flex; gap: 10px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   
-  <img src="https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   
