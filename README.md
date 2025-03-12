@@ -19,7 +19,7 @@
 
 
 <p align="left">
-  💼 Cursos: CESAR School, UDEMY
+  💼 Cursos: CESAR School, UDEMY, RocketSeat
 </p>
 
 <p align="left">
