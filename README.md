@@ -1,7 +1,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  Meu nome é Guilherme Wolf Nogueira, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School, no 2° período!
+  Meu nome é Guilherme Wolf Nogueira, tenho 20 anos e sou estudante de Análise e Desenvolvimento de Sistemas na CESAR School, no 3° período!
 </p>
 <h3>Habilidades:</h3>
 <div style="display: flex; gap: 10px;">
